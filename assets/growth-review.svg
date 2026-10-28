@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 650" role="img" aria-labelledby="title desc">
+<title id="title">2023 年規模與獲利指標須分開解讀</title><desc id="desc">2023 相對 2022 的流通卡、有效卡、銀行合併營業費用及本期淨利變動。不同範圍不能直接識別併購綜效。</desc>
+<rect width="1120" height="650" rx="20" fill="#f4f7fb"/>
+<style>text{font-family:Arial,Noto Sans CJK TC,PingFang TC,sans-serif;fill:#172a43}.label{font-size:22px}.value{font-size:22px;font-weight:700}</style>
+<text x="48" y="55" font-size="15" fill="#168c88">EVIDENCE REVIEW · 2023 vs 2022</text>
+<text x="48" y="103" font-size="31" font-weight="700">規模成長與獲利，分開衡量</text>
+<text x="48" y="149" font-size="17">信用卡業務指標 · 原小組表格，精確卡量未獨立重建</text>
+<path d="M500 165V310 M500 385V530" stroke="#b7c5d8" stroke-width="2"/>
+<text x="48" y="369" font-size="17">銀行與子公司合併財務 · 官方年報核對，2022 採重編比較數</text>
+<text x="48" y="197" class="label">流通卡</text><rect x="500.00" y="174" width="303.24" height="28" rx="4" fill="#168c88"/><text x="817.24" y="197" class="value">+50.54%</text>
+<text x="48" y="282" class="label">有效卡</text><rect x="500.00" y="259" width="405.54" height="28" rx="4" fill="#168c88"/><text x="919.54" y="282" class="value">+67.59%</text>
+<text x="48" y="417" class="label">營業費用</text><rect x="500.00" y="394" width="159.06" height="28" rx="4" fill="#5163a5"/><text x="673.06" y="417" class="value">+26.51%</text>
+<text x="48" y="502" class="label">本期淨利</text><rect x="487.64" y="479" width="12.36" height="28" rx="4" fill="#5163a5"/><text x="514.00" y="502" class="value">-2.06%</text>
+<text x="48" y="580" font-size="19" font-weight="700">不同業務範圍，不能直接推論併購因果或信用卡獲利。</text>
+<text x="48" y="618" font-size="15">來源：小組報告 PDF p.12；台北富邦銀行 2023 年報印刷 pp.196、209。數值見 data/。</text></svg>

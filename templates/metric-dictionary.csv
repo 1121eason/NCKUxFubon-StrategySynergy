@@ -1,0 +1,8 @@
+metric_id,name,numerator_or_calculation,denominator_or_basis,scope,observation_window,interpretation_limit
+net_attributable_savings,可歸因的淨節省,可比活動的反事實成本減實際成本再扣未重複納入之整合投入,同範圍成本與期間,工作項目,依方案建立,不得僅由總營業費用升降認列
+task_success_rate,任務成功率,成功完成指定任務的有效嘗試數,指定任務的全部有效嘗試數,任務,預先固定,需定義重試逾時及技術失敗
+incremental_net_contribution,增量淨貢獻,相對適當比較基準的貢獻減未含之優惠服務風險及整合成本,依設計採每戶或總額並固定,顧客群,預先固定,控制既有交易替代並避免重扣成本
+capability_milestone,能力里程碑,完成有證據的跨團隊任務並驗證重用條件,預先定義的驗收條件,能力,階段審查,不得直接加總為財務收益
+sustained_participation,持續參與率,同一批初始參與者於後續觀察期仍參與的人數,起始合格參與者人數,顧客群,預先固定,不等於實際減碳
+market_validation_gate,市場驗證關卡,需求合作及能力證據是否通過事先定義條件,預先定義的進入條件,指定市場與客群,階段審查,海外消費與當地發卡分別評估
+active_card_share,有效卡占流通卡比例,同時點有效卡數,同時點流通卡數,卡片,年末或同時點,不是同一批顧客留存率

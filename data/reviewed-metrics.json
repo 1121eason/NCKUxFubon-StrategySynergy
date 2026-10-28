@@ -1,0 +1,46 @@
+{
+  "base_year": 2022,
+  "current_year": 2023,
+  "metrics": [
+    {
+      "id": "cards_in_force",
+      "label": "流通卡",
+      "scope": "Taipei Fubon credit cards",
+      "unit": "source-table scale; unit not printed",
+      "source": "G1 PDF p.12 Figure 4",
+      "verification": "coursework transcription; exact figures not independently rebuilt",
+      "base": 479.24,
+      "current": 721.45
+    },
+    {
+      "id": "active_cards",
+      "label": "有效卡",
+      "scope": "Taipei Fubon credit cards",
+      "unit": "source-table scale; same scale as cards_in_force",
+      "source": "G1 PDF p.12 Figure 5",
+      "verification": "coursework transcription; 2023 magnitude corroborated by O2 printed p.169: about 5.49 million",
+      "base": 327.69,
+      "current": 549.18
+    },
+    {
+      "id": "operating_expenses",
+      "label": "營業費用",
+      "scope": "Taipei Fubon Bank and subsidiaries consolidated",
+      "unit": "NTD thousand",
+      "source": "O2 printed pp.196,209; G1 PDF p.13",
+      "verification": "exact financial values checked against official annual report; 2022 restated comparative",
+      "base": 30029906,
+      "current": 37992294
+    },
+    {
+      "id": "net_profit",
+      "label": "本期淨利",
+      "scope": "Taipei Fubon Bank and subsidiaries consolidated",
+      "unit": "NTD thousand",
+      "source": "O2 printed pp.196,209; G1 PDF p.13",
+      "verification": "exact financial values checked against official annual report; 2022 restated comparative",
+      "base": 24963587,
+      "current": 24448162
+    }
+  ]
+}
